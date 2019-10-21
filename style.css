@@ -11,3 +11,9 @@ nav {
 main {
     height: 100vh;
 }
+
+
+footer {
+    height: 10px;
+    background-color: burlywood;
+}
