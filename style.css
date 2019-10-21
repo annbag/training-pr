@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+nav {
+    height: 54px;
+    width: 100%;
+    background-color: brown;
+}
+
+main {
+    height: 100vh;
+}
+
+
+footer {
+    height: 10px;
+    background-color: burlywood;
+}
