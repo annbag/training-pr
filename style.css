@@ -7,3 +7,7 @@ nav {
     width: 100%;
     background-color: brown;
 }
+
+main {
+    height: 100vh;
+}
